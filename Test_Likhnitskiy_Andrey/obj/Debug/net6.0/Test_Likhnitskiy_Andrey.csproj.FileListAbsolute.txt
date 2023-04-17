@@ -1,0 +1,15 @@
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\bin\Debug\net6.0\Test_Likhnitskiy_Andrey.exe
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\bin\Debug\net6.0\Test_Likhnitskiy_Andrey.deps.json
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\bin\Debug\net6.0\Test_Likhnitskiy_Andrey.runtimeconfig.json
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\bin\Debug\net6.0\Test_Likhnitskiy_Andrey.dll
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\bin\Debug\net6.0\Test_Likhnitskiy_Andrey.pdb
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\Test_Likhnitskiy_Andrey.csproj.AssemblyReference.cache
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\Test_Likhnitskiy_Andrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\Test_Likhnitskiy_Andrey.AssemblyInfoInputs.cache
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\Test_Likhnitskiy_Andrey.AssemblyInfo.cs
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\Test_Likhnitskiy_Andrey.csproj.CoreCompileInputs.cache
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\Test_Likhnitskiy_Andrey.dll
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\refint\Test_Likhnitskiy_Andrey.dll
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\Test_Likhnitskiy_Andrey.pdb
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\Test_Likhnitskiy_Andrey.genruntimeconfig.cache
+C:\GameMaking\Test_Likhnitskiy_Andrey\Test_Likhnitskiy_Andrey\obj\Debug\net6.0\ref\Test_Likhnitskiy_Andrey.dll
