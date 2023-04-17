@@ -1,4 +1,4 @@
-﻿using System.Runtime.CompilerServices;
+﻿using System.Globalization;
 using Test_Likhnitskiy_Andrey;
 using Test_Likhnitskiy_Andrey.Engines;
 #region MAIN
@@ -9,9 +9,12 @@ using Test_Likhnitskiy_Andrey.Engines;
     float Hm = 0.01f;
     float Hv  = 0.0001f;
     float C = 0.1f;
-
+    Console.WriteLine("Введите данные о погоде: ");
     float temp = GetFloat(Console.ReadLine());
-    
+    if(temp == -1)
+    {
+        return;
+    }
     InternalCombustionEngine engine = new InternalCombustionEngine(I, M, V, Hm, Hv, C, temp);
     TestStand test = new TestStand();
     
@@ -19,9 +22,19 @@ using Test_Likhnitskiy_Andrey.Engines;
 }
 #endregion
 
-float GetFloat(string? s) 
+float GetFloat(string? s)
 {
-    if(float.TryParse(s, out float result))
+
+    if (s.Contains(','))
+    {
+        s = s.Replace(',', '.');
+    }
+
+    if (float.TryParse(s, NumberStyles.Float, CultureInfo.InvariantCulture, out float result))
         return result;
-    else throw new Exception("Некорректный ввод данных. Перезапустите программу");
+    else
+    {
+        Console.WriteLine("Некорректный ввод данных. Перезапустите программу");
+        return -1;
+    }
 }
